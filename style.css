@@ -1,0 +1,15 @@
+.btn {
+    font-size: 20px;
+	font-family: monospace;
+	color: #fff;
+	background: linear-gradient(to left, #232526, #414345, #232526);
+	text-decoration: none;
+	padding: 20px 70px;
+	border-radius: 10px;
+	background-size: 100%;
+	transition: .5s;
+}
+
+.button:hover {
+    background-position: right;
+}
